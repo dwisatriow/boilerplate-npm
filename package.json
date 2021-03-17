@@ -1,7 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dwi Satrio Wicaksono",
-	"description": "Managing Packages with NPM Tutorial",
+	"description": "Managing packages with npm tutorial",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"tutorial"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
