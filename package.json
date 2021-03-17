@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Dwi Satrio W.",
+	"author": "Dwi Satrio Wicaksono",
+	"description": "Managing Packages with NPM Tutorial",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
